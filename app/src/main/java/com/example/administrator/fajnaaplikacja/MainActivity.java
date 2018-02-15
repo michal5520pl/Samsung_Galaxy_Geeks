@@ -2,6 +2,9 @@ package com.example.administrator.fajnaaplikacja;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
 
 public class MainActivity extends AppCompatActivity {
 
